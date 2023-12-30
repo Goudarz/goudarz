@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="Center">“Talk is cheap. Show me the code.”<br/>— Linus Torvalds</p>
 
 <!--
 **Goudarz/goudarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
